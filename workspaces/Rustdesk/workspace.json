@@ -2,7 +2,7 @@
   "description": "RustDesk is a remote access and remote control software, primarily written in Rust, that enables the maintenance of computers and other devices remotely.",
   "docker_registry": "https://ghcr.io/",
   "name": "jreming85/rustdesk-kasm-image:main",
-  "image_src": "rustdesk.png",
+  "image_src": "RustDesk.jpg",
   "categories": [
     "Remote Access"
   ],
