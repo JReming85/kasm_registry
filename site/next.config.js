@@ -4,7 +4,7 @@ const nextConfig = {
   env: {
     name: 'JRems Kasm Registry',
     description: 'Repo for my kasm images',
-    icon: 'https://jreming85.github.io/kasm_registry/1.0/img/logo.svg',
+    icon: '/img/logo.svg',
     listUrl: 'https://jreming85.github.io/kasm_registry/',
     contactUrl: 'https://github.com/JReming85/kasm_registry/issues',
   },
