@@ -5,7 +5,7 @@ const nextConfig = {
     name: 'JRem's Kasm Registry',
     description: 'Repo for my kasm images',
     icon: '/img/logo.svg',
-    listUrl: 'https://github.com/JReming85/kasm_registry/',
+    listUrl: 'https://jreming85.github.io/kasm_registry/',
     contactUrl: 'https://github.com/JReming85/kasm_registry/issues',
   },
   reactStrictMode: true,
